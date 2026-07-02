@@ -1,6 +1,6 @@
 # Mapping Methane Across the Okavango Delta
 
-Wetlands are the largest natural source of methane on Earth, but measuring emissions across vast, remote landscapes at scale is not practical. This project asks whether a model trained on global flux data can predict where and when methane is released across one of Africa's most significant wetland ecosystems — and the answer surprised us.
+Wetlands are the largest natural source of methane on Earth, but measuring emissions across vast, remote landscapes at scale is not practical. This project asks whether a model trained on global flux data can predict where and when methane is released across one of Africa's most significant wetland ecosystems.
 
 *Lead analyst: Christian Dadzie | Environmental Data Science, Yale School of the Environment, Fall 2024 | Group project with Dylan Morse*
 
