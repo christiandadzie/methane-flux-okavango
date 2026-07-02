@@ -63,7 +63,7 @@ The explanation lies in pH. Permanently flooded areas in the Okavango have high 
 R, randomForest, terra, sf, tidyverse
 
 | Dataset | Source |
-|---------|--------|
+|:--------|:-------|
 | Methane Flux Observations | FLUXNET CH4 Network |
 | Soil Organic Carbon | SoilGrids (ISRIC) |
 | Air Temperature | TerraClimate |
