@@ -1,6 +1,6 @@
 # Mapping Methane Across the Okavango Delta
 
-Wetlands are the largest natural source of methane on Earth, but measuring emissions across vast, remote landscapes at scale is not practical. This project asks whether a model trained on global flux data can predict where and when methane is released across one of Africa's most significant wetland ecosystems — and the answer surprised us.
+Wetlands are the largest natural source of methane on Earth, but measuring emissions across vast, remote landscapes at scale is not practical. This project asks whether a model trained on global flux data can predict where and when methane is released across one of Africa's most significant wetland ecosystems.
 
 *Lead analyst: Christian Dadzie | Environmental Data Science, Yale School of the Environment, Fall 2024 | Group project with Dylan Morse*
 
@@ -38,7 +38,7 @@ To understand what drives the spatial pattern of emissions, it helps to see the 
 
 ![Soil pH across the Okavango Delta. Permanently flooded areas are predominantly acidic.](images/ph_raster.jpg)
 
-*Soil pH tells the most important part of the story. Permanently flooded areas are predominantly acidic (below 6.5), which inhibits methane production despite the abundant organic carbon. Seasonal floodplains have more moderate pH — and become active methane sources when flooded in the dry season.*
+*Soil pH tells the most important part of the story. Permanently flooded areas are predominantly acidic (below 6.5), which inhibits methane production despite the abundant organic carbon. Seasonal floodplains have more moderate pH and become active methane sources when flooded in the dry season.*
 
 ---
 
